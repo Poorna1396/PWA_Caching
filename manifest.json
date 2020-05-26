@@ -1,0 +1,9 @@
+{
+    "name": "Login",
+    "short_name": "Login",
+    "description": "My Progressive Web App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#000"
+}
